@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(245, 237, 163);
+}
+.chef {
+    width: 20%;
+    height: auto;
+}

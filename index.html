@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ryan's Recipes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Ryan's Recipes</h1>
+    <img class="chef" src="/images/chefWolf.jpg" alt="cartoon cheff">
+    <ul>
+        <li><a href="/recipes/tequila-Chili.html">Tequila Chili</a></li>
+        <li><a href="/recipes/world-best-lasagna.html">World's Best Lasagna</a></li>
+        <li><a href="/recipes/tito-holiday-thyme.html">Tit's Holiday Thyme</a></li>
+    </ul>
+    
+</body>
+</html>
